@@ -2,7 +2,7 @@
 
 Apaixonado por programação e computação, sou programador WEB, busco constatemente em melhorar minhas habilidades na área de desenvolvimento de software, com paixão em Front-End, estou sempre em busca de desafios para melhorar mais.
 
-## 🚀 Technologias
+## ``🚀 Technologias``
 
 Experiência profissional com tecnologias como:
 
@@ -17,11 +17,11 @@ Possuo habilidades com Bootstrap, um dos frameworks mais utilizados para criar l
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSLV&layout=compact&&bg_color=00000000&text_color=9248d9&title_color=803fbe)
 
-## 📚 Formaçao
+## ``📚 Formaçao``
 
 Estou cursando Analise e Desenvolvimento de Sistemas, através do meu curso tenho adquirido conhecimentos sólidos de programação, estruturas de dados, desenvolvimento de software e outras disciplinas relacionadas.
 
-## 📌 Contatos
+## ``📌Contatos``
 
 Se estiver interessado em colaborar em projeto ou quer apenas bater papo sobre desenvilvimento WEB, fique à vontade para entrar em contato comigo:
 
