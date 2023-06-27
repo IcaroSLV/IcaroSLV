@@ -20,10 +20,10 @@ Estou cursando Analise e Desenvolvimento de Sistemas, através do meu curso tenh
 
 Se estiver interessado em colaborar em projeto ou quer apenas bater papo sobre desenvilvimento WEB, fique à vontade para entrar em contato comigo:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=9248d9): Icaroisl6582@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=White) Icaroisl6582@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=9248d9): https://www.linkedin.com/in/paulo-ícaro-silva-lúcio-90013b254/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=White) https://www.linkedin.com/in/paulo-ícaro-silva-lúcio-90013b254/
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=9248d9): https://www.instagram.com/_icaroslv/
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=White) https://www.instagram.com/_icaroslv/
 
 
