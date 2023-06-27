@@ -6,8 +6,6 @@ Apaixonado por programação e computação, sou programador WEB, busco constate
 
 ## ``🚀 Technologias``
 
-Experiência profissional com tecnologias como:
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Experiência no desenvilvimento de aplicativos web utilizando o Javascript como principal linguagem de programação, sou familiarizado com conceitos basicos e avançados como manipulação de DOM, funções assíncronas e muito mais.
