@@ -24,6 +24,6 @@ Se estiver interessado em colaborar em projeto ou quer apenas bater papo sobre d
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=White) https://www.linkedin.com/in/paulo-ícaro-silva-lúcio-90013b254/
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=White) https://www.instagram.com/_icaroslv/
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/_icaroslv/
 
 
