@@ -4,7 +4,7 @@ Apaixonado por programação e computação, sou programador WEB, busco constate
 
 
 
-## ``🚀 Technologias``
+## ``🚀 TECNOLOGIAS``
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -22,13 +22,13 @@ Possuo habilidades com Bootstrap, um dos frameworks mais utilizados para criar l
 
 
 
-## ``📚 Formaçao``
+## ``📚 FORMAÇÃO``
 
 Estou cursando Analise e Desenvolvimento de Sistemas, através do meu curso tenho adquirido conhecimentos sólidos de programação, estruturas de dados, desenvolvimento de software e outras disciplinas relacionadas.
 
 
 
-## ``📌Contatos``
+## ``📌CONTATOS``
 
 Se estiver interessado em colaborar em projeto ou quer apenas bater papo sobre desenvilvimento WEB, fique à vontade para entrar em contato comigo:
 
