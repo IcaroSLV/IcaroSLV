@@ -6,9 +6,14 @@ Apaixonado por programação e computação, sou programador WEB, busco constate
 
 Experiência profissional com tecnologias como:
 
-- ``Javascript:`` Experiência no desenvilvimento de aplicativos web utilizando o Javascript como principal linguagem de programação, sou familiarizado com conceitos basicos e avançados como manipulação de DOM, funções assíncronas e muito mais.
-- ``React:`` Conhecimento e experiência no uso de React para criar interfaces interativas e dinâmicas. Ja desenvolvi projetos utilizando React Hooks, API's, React Router e etc.
-- ``Bootstrap:`` Possuo habilidades com Bootstrap, um dos frameworks mais utilizados para criar layouts responsivos e componentes reutilizaveis. 
+## ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Experiência no desenvilvimento de aplicativos web utilizando o Javascript como principal linguagem de programação, sou familiarizado com conceitos basicos e avançados como manipulação de DOM, funções assíncronas e muito mais.
+
+## ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Conhecimento e experiência no uso de React para criar interfaces interativas e dinâmicas. Ja desenvolvi projetos utilizando React Hooks, API's, React Router e etc.
+
+## ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Possuo habilidades com Bootstrap, um dos frameworks mais utilizados para criar layouts responsivos e componentes reutilizaveis. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSLV&layout=compact&&bg_color=00000000&text_color=9248d9&title_color=803fbe)
 
