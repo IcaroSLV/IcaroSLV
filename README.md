@@ -1,4 +1,12 @@
-### Hi there 👋
+Olá, sou programador WEB, apaixonado por computação!
+
+Experiência profissional com tecnologias como:
+
+- Javascript
+- React
+- Bootstrap
+
+• Cursando Analise e Desenvilvimento de Sitemas
 
 <!--
 **IcaroSLV/IcaroSLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
